@@ -1,0 +1,11 @@
+#navbar-top-fix {
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#welcome-header {
+    z-index: -1;
+}
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'
